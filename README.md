@@ -4,7 +4,7 @@
 
 What makes a song catchy? Can we predict if a song will land on the Billboard HOT 100?
 
-These are the questions I set out to explore for one of my projects while attending Metis, a full-time data science bootcamp in New York City, during the Spring of 2017.
+These are the questions I set out to explore for one of my projects while attending [Metis](https://www.thisismetis.com/), a full-time data science bootcamp in New York City, during the Spring of 2017.
 
 For this problem, I built a binary classification model to predict whether or not a song will reach the Billboard HOT 100, based on the song’s audio features. Examples of song features include, tempo, key, energy, and “speechiness” (probability song is all spoken-word), plus nine additional features. 
 
@@ -16,7 +16,7 @@ For this problem, I built a binary classification model to predict whether or no
 
 ## Repo Contents
 
-The IPython Notebooks are [here](https://github.com/brianturn/predict-billboard/tree/master/images)
+The IPython Notebooks are [here](https://github.com/brianturn/predict-billboard/tree/master/notebooks)
 
 The presentation is [here](https://github.com/brianturn/predict-billboard/blob/master/presentation/turner_presentation_billboard.pdf)
 
