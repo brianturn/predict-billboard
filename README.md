@@ -16,11 +16,11 @@ For this problem, I built a binary classification model to predict whether or no
 
 ## Repo Contents
 
-The IPython Notebooks are here
+The IPython Notebooks are [here](https://github.com/brianturn/predict-billboard/tree/master/images)
 
-The PDF is here
+The presentation is [here](https://github.com/brianturn/predict-billboard/blob/master/presentation/turner_presentation_billboard.pdf)
 
-Matplotlib visualizations
+Matplotlib [visualizations](https://github.com/brianturn/predict-billboard/tree/master/images)
 
 ## Results
 
